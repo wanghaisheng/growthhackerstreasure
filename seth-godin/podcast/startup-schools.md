@@ -1,5 +1,3 @@
-<!-- .xflip { -moz-transform: scaleX(-1); -webkit-transform: scaleX(-1); -o-transform: scaleX(-1); transform: scaleX(-1); filter: fliph; } .yflip { -moz-transform: scaleY(-1); -webkit-transform: scaleY(-1); -o-transform: scaleY(-1); transform: scaleY(-1); filter: flipv; } .xyflip { -moz-transform: scaleX(-1) scaleY(-1); -webkit-transform: scaleX(-1) scaleY(-1); -o-transform: scaleX(-1) scaleY(-1); transform: scaleX(-1) scaleY(-1); filter: fliph + flipv; } --> ![](SETH-GODIN-STARTUP-SCHOOL-FINAL-1_1.jpg)  
-
 * * *
 
 **A Note from the Editor   
