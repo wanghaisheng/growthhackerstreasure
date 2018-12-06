@@ -179,7 +179,7 @@ What Howard  Schultz  did  that was  brilliant had  nothing to  do  with  his  a
 But  to  be  a  freelancer  or  impresario,  someone  who  does  the  work,  but  doesn’t   build  the  organization  is  totally  great.  I  spend  80%  of  my  time  being  a  freelancer.  If   it  has  my  name  on  it,  I  wrote  it.  I  spend  20%  of  my  time  running  an  internet   company  as  an  entrepreneur,  meaning  not  only  don’t  I  code,  I  don’t  remember  how   to  code,  and  every  time  I  call  one  of  the  seven  people  who  work  at  Squidoo,  I  am  hurting our productivity  because  I  am bothering  someone  who  is  actually  doing  a   good  job  as  I  work  to  break  the  company. 
 
   
-_## Q: Break  the  company? ## _  
+### Q: Break  the  company? 
 
 If  you have three pizza shops  and  they are all working, you have a choice. You  can  just  keep  them working  and  go  to  the  south  of  France  and  they’ll  mail  you  a   $1,000 a week  because you own the business.    
 
@@ -189,7 +189,7 @@ And  you  are  the  only  person  who  has  the  authority  to  do  that.  You  
 
 As  you’re  structuring  this  business  to  grow,  your  job  is  to  figure  out  where  it   goes.    
 
-_## Q: You  can’t  totally leave  the  business  alone.  You  need  to know  that  things  are   working.  Derek  Sivers  wrote  about  how  he  left  things  alone  to such  a  degree  that   the employees  paid  themselves  100%  of  the  profits  amongst  other  things. ## _  
+### Q: You  can’t  totally leave  the  business  alone.  You  need  to know  that  things  are   working.  Derek  Sivers  wrote  about  how  he  left  things  alone  to such  a  degree  that   the employees  paid  themselves  100%  of  the  profits  amongst  other  things. 
 
 
 So the thought is you can’t totally leave the business alone. Well the question is,  “Where  is  Thomas  Edison  when  we  need  him?”  He’s  long  gone,  but  GE  persists.   
@@ -206,7 +206,7 @@ I’m not  saying  that  is  everyone’s  goal.  I  don’t  want  to  do  that
 model  of  classic  entrepreneurship—you build an industrial  thing and it  scales.   
 
 
-_## Q: One  definition  that  I  like  about  a  business  is,  you  could  leave  it  for  a  year  and   when  you  came  back  it  would  be  bigger  and  more  profitable  than  when  you  left. ## _  
+### Q: One  definition  that  I  like  about  a  business  is,  you  could  leave  it  for  a  year  and   when  you  came  back  it  would  be  bigger  and  more  profitable  than  when  you  left.   
 
 Right, because you have this organic thing. You plant a whole bunch of Kudzu,  you  come  back  a year  later  and  it has  grown.    
 
