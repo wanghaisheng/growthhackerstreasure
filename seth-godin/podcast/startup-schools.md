@@ -39,7 +39,7 @@ Thanks for listening  reading.
 
    
    
-**CONTENTS   
+** CONTENTS   
 Episode  1  -­  Freelancer or Entrepreneur?    **  
   
   
